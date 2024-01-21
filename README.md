@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development project
 - 🌱 I’m currently learning web development 
 - 💞️ I’m looking to collaborate on web project
-- https://leetcode.com/ankush920/
+-  https://leetcode.com/ankush920/
 - 📫 How to reach me ankushsingh20000003@gmail.com   or    ankushsingh_se21a13_54@dtu.ac.in 
                 
 
