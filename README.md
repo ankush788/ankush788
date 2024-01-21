@@ -6,7 +6,7 @@
 [![LeetCode user Ankush Singh](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fankush920&logo=leetcode&logoColor=yellow)](https://leetcode.com/ankush920/)
 
 # 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MERN](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=MERN&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![MERN](https://img.shields.io/badge/MERN-%2300599C.svg?style=for-the-badge&logo=MERN&logoColor=white) 
 <!---
 ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
