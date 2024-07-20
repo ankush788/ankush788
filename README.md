@@ -33,5 +33,5 @@
 - 🥈 Knight on LeetCode
 - 🥉 Created **5+ MERN full-stack projects** with deployment
 
-## ✨ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via **Email - [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)**!
+## ✨ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via **Email - [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)**
 
