@@ -35,7 +35,6 @@
 
 ## ✨ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via <a href="mailto:ankushsingh20000003@gmail.com" style="text-decoration: none; color: inherit;">Email - ankushsingh20000003@gmail.com</a>!
 
----
 
 ![Let’s create something amazing together!](animated.svg)
 
