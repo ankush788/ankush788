@@ -4,3 +4,4 @@
     <animate attributeName="opacity" values="0;1;0" dur="2s" repeatCount="indefinite" />
   </text>
 </svg>
+
