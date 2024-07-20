@@ -3,7 +3,7 @@
 👀 I’m interested in **Data Structures and Algorithms**  
 🌱 I’m currently learning **Web Development**  
 💞️ I’m looking to collaborate on **MERN stack projects**  
-📫 How to reach me: **Email - ankushsingh20000003@gmail.com**
+📫 How to reach me: **Email - [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)**
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-singh-/) 
@@ -25,15 +25,32 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ## 📈 GitHub Stats:
-![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush788&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush788&layout=compact&theme=radical)
+![Ankush's GitHub stats](https://github-readme-stats.vercel.app/api?username=ankush788&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ankush788&layout=compact&theme=radical&hide_border=true)
 
 ## 🏆 Achievements:
-- 🥇 Solved over 900+ problems on LeetCode
-- 🥈 Knight on leetcode 
-- 🥉 created 5+ MERN full stack project with deployment
+- 🥇 Solved over **900+ problems** on LeetCode
+- 🥈 Knight on LeetCode
+- 🥉 Created **5+ MERN full-stack projects** with deployment
 
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via **Email - ankushsingh20000003@gmail.com**!
+## ✨ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via **Email - [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)**!
+
+---
+
+<!--- Here is an animation snippet using a simple CSS animation --->
+<style>
+  .animated-text {
+    animation: fadeIn 2s ease-in-out infinite;
+  }
+
+  @keyframes fadeIn {
+    0% { opacity: 0; }
+    50% { opacity: 1; }
+    100% { opacity: 0; }
+  }
+</style>
+
+<p class="animated-text">✨ Let’s create something amazing together! ✨</p>
 
 <!---
 ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
