@@ -37,7 +37,7 @@
 
 ---
 
-![Let’s create something amazing together!](path/to/your/animated_white_text.svg)
+![Let’s create something amazing together!](animated.svg)
 
 <!---
 ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
