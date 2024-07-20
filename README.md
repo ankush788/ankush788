@@ -38,19 +38,17 @@
 ---
 
 <!--- Here is an animation snippet using a simple CSS animation --->
-<style>
-  .animated-text {
-    animation: fadeIn 2s ease-in-out infinite;
-  }
+<div style="animation: fadeIn 2s ease-in-out infinite;">
+  ✨ Let’s create something amazing together! ✨
+</div>
 
+<style>
   @keyframes fadeIn {
     0% { opacity: 0; }
     50% { opacity: 1; }
     100% { opacity: 0; }
   }
 </style>
-
-<p class="animated-text">✨ Let’s create something amazing together! ✨</p>
 
 <!---
 ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
