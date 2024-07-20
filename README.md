@@ -37,18 +37,7 @@
 
 ---
 
-<!--- Here is an animation snippet using a simple CSS animation --->
-<div style="animation: fadeIn 2s ease-in-out infinite;">
-  ✨ Let’s create something amazing together! ✨
-</div>
-
-<style>
-  @keyframes fadeIn {
-    0% { opacity: 0; }
-    50% { opacity: 1; }
-    100% { opacity: 0; }
-  }
-</style>
+![Let’s create something amazing together!](animated.svg)
 
 <!---
 ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
