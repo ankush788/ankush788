@@ -32,6 +32,14 @@
 - 🥇 Solved over **900+ problems** on LeetCode
 - 🥈 Knight on LeetCode
 - 🥉 Created **5+ MERN full-stack projects** with deployment
+
 ## ✨ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/ankush-singh-/) or reach out via <a href="mailto:ankushsingh20000003@gmail.com" style="text-decoration: none; color: inherit;">Email - ankushsingh20000003@gmail.com</a>!
 
+---
 
+![Let’s create something amazing together!](path/to/your/animated_white_text.svg)
+
+<!---
+ankush788/ankush788 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
