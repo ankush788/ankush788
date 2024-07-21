@@ -1,9 +1,9 @@
-# 💫 About Me:
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="25" height="25"/> Hi, I’m **Ankush Singh**  
-👀 I’m interested in **Data Structures and Algorithms**   
-🌱 I’m currently learning **Web Development**  
-💞️ I’m looking to collaborate on **MERN stack projects**  
-📫 How to reach me: **Email - [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)**
+## <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/24524555/238178097-766d336d-b87d-44ba-807c-c51de2bc6b4d.gif" width="20" height="20"/> Hi, I’m **[Ankush Singh](https://ankush-singh.tech/)**  
+🎓 **Software Engineering** undergrad at **Delhi Technological University.**   
+💼 3 months of experience as a **Web Development Intern.**  
+🧑🏻‍💻 Proficient in **Data Structures & Algorithms.**  
+📄 [Resume](https://drive.google.com/file/d/17-cLf3W2TYtHy-TyFegJxH5e-uxOmKus/view?usp=sharing)   
+🗨️ Get in touch: [ankushsingh20000003@gmail.com](mailto:ankushsingh20000003@gmail.com)
  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankush-singh-/) 
